@@ -9,6 +9,14 @@ Add Script File Into Project
 	  
 ## Usage
 
+[--NbnAjaxPageLoaderJquery--] work with window location hash .
+so your url must be  : 
+	Example : 
+	
+
+    http://example.com/#index/content
+
+
 Basic  : 
 
 	<div id="content"></div>
