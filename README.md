@@ -60,7 +60,7 @@ Custom Style :
 	
 
     $contents = Content::orderBy('id','desc')->paginate(10);
-	$contents->withPath('#/index/content');
+	$contents->withPath('#index/content');
 
 Injoy :) 
 	
