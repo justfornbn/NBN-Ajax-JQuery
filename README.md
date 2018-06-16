@@ -1,7 +1,19 @@
 ![enter image description here](https://github.com/justfornbn/NBN-Ajax-page-loading-JQuery/blob/master/NBNAJAXPAGELOADER.jpg?raw=true) 
 ## NBN Ajax Page Loader and Progressive
+Requirements
+
+ 1. jquery
+
+Benefits : 
+
+ 1. You can create FAST ajax web application easily
+ 2. History Back
+ 3. Match With Laravel
+ 4. Customize Style 
 
 ## Setup
+
+
 
 Add Script File Into Project
 
